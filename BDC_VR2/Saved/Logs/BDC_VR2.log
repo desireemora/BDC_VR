@@ -6587,3 +6587,512 @@ Make sure 'Level2_C' has been compiled for  Get Target Point
 [2019.11.24-19.17.11:692][373]LogPlayLevel: Display: Destroying online subsystem :Context_110
 [2019.11.24-19.17.13:052][536]LogSlate: Window 'Message Log' being destroyed
 [2019.11.24-19.17.13:055][536]LogSlate: Window 'Message Log' being destroyed
+[2019.11.24-19.20.30:248][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.24-19.20.30:503][681]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home9BA3CC804339F99D6AAAD48B745366FC.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home.umap'
+[2019.11.24-19.20.30:552][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Home_BuiltData" FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset" SILENT=true
+[2019.11.24-19.20.30:964][681]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home_BuiltDataF9928887482AC2E284F77E84B3E0E0D4.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset'
+[2019.11.24-19.20.33:897][ 26]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.33:897][ 26]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.33:897][ 26]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:077][ 33]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:077][ 33]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:089][ 34]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:183][ 43]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:183][ 43]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:195][ 44]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:297][ 53]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:297][ 53]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:308][ 54]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:409][ 63]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:409][ 63]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:421][ 64]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:523][ 73]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:523][ 73]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:534][ 74]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:636][ 83]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:636][ 83]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:649][ 84]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:751][ 93]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:752][ 93]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:763][ 94]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:855][103]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:855][103]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:863][104]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.34:957][113]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:957][113]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.34:967][114]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:060][123]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:060][123]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:069][124]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:160][133]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:160][133]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:171][134]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:389][152]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:389][152]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:401][153]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:506][162]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:506][162]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:515][163]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:662][176]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:662][176]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:670][177]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:816][190]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:817][190]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:826][191]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.35:953][202]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:953][202]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.35:953][202]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:082][214]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:083][214]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:083][214]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:183][223]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:183][223]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:183][223]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:276][232]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:276][232]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:276][232]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:372][241]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:372][241]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:372][241]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:463][250]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:464][250]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:464][250]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:588][259]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:588][259]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:588][259]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:779][273]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:779][273]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:779][273]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.36:926][286]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:926][286]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.36:926][286]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.37:072][299]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.37:072][299]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.37:072][299]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.37:908][379]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.37:908][379]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.37:908][379]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:026][389]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:026][389]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:026][389]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:186][403]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:186][403]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:186][403]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:339][417]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:339][417]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:339][417]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:469][429]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:469][429]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:469][429]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:590][441]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:590][441]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:590][441]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:712][453]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:713][453]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:713][453]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:832][465]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:832][465]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:832][465]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.38:964][477]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:964][477]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.38:964][477]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.39:091][489]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.39:091][489]LogSkinnedMeshComp: Warning: Invalid Lod 0 for Rendering Asset: SkeletalMesh /Game/Balloon.Balloon_ufotoy
+[2019.11.24-19.20.39:091][489]LogAnimation: Warning: SkeletalMesh Can_Can_001 has no skeleton. This needs to fixed before an animation can be set
+[2019.11.24-19.20.40:900][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.11.24-19.20.41:003][697]LogSlate: Window 'BDC_VR2 - Unreal Editor' being destroyed
+[2019.11.24-19.20.41:214][698]Cmd: QUIT_EDITOR
+[2019.11.24-19.20.41:734][698]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.24-19.20.41:753][698]LogExit: Preparing to exit.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:124][698]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:126][698]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:128][698]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:129][698]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:130][698]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:131][698]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:133][698]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:134][698]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.24-19.20.42:135][698]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.24-19.20.42:170][698]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.24-19.20.42:200][698]LogExit: Editor shut down
+[2019.11.24-19.20.42:201][698]LogExit: Transaction tracking system shut down
+[2019.11.24-19.20.42:561][698]LogExit: Object subsystem successfully closed.
+[2019.11.24-19.20.42:588][698]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module SequencerWidgets (684)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (682)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module Voice (680)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (678)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module BlueprintGraph (676)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module MeshBuilder (674)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2019.11.24-19.20.42:623][698]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module StatsViewer (660)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (658)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module FoliageEdit (656)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module LandscapeEditor (654)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module MeshPaintMode (652)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (650)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module ActorPickerMode (648)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module GeometryMode (646)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module TextureAlignMode (644)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module BspMode (642)
+[2019.11.24-19.20.42:627][698]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (640)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (638)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module AutomationWorker (636)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module OculusMR (634)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (632)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (630)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (628)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module PlacementMode (627)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module MaterialEditor (626)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (622)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (620)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (618)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (616)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (614)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module WebMMedia (612)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (610)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (608)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module SequenceRecorder (607)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (604)
+[2019.11.24-19.20.42:628][698]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (602)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (600)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (598)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (596)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (594)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (592)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (590)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (588)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (586)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (584)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module CharacterAI (582)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module SmartSnapping (580)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module SessionServices (578)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module MeshPaint (576)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module ViewportSnapping (574)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module ViewportInteraction (572)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module ClothPainter (570)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (569)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module LogVisualizer (566)
+[2019.11.24-19.20.42:629][698]LogModuleManager: Shutting down and abandoning module IntroTutorials (564)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (563)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (560)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (558)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (556)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (554)
+[2019.11.24-19.20.42:630][698]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (553)
+[2019.11.24-19.20.44:160][698]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (550)
+[2019.11.24-19.20.44:160][698]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (548)
+[2019.11.24-19.20.44:160][698]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (546)
+[2019.11.24-19.20.44:160][698]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (544)
+[2019.11.24-19.20.44:160][698]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (542)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module InputBindingEditor (540)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module MergeActors (538)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (536)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module LocalizationService (535)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module HardwareTargeting (532)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (530)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module UndoHistory (528)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module XmlParser (526)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module Blutility (524)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (522)
+[2019.11.24-19.20.44:161][698]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (521)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (518)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module SettingsEditor (516)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module ProjectLauncher (514)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module SessionFrontend (512)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module ProfilerClient (510)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module DeviceManager (508)
+[2019.11.24-19.20.44:162][698]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (507)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module AutomationController (504)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module AutomationWindow (502)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module Layers (500)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (498)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module DetailCustomizations (496)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module PackagesDialog (494)
+[2019.11.24-19.20.44:217][698]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (492)
+[2019.11.24-19.20.44:218][698]LogModuleManager: Shutting down and abandoning module Persona (490)
+[2019.11.24-19.20.44:218][698]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (489)
+[2019.11.24-19.20.44:218][698]LogModuleManager: Shutting down and abandoning module AnimGraph (487)
+[2019.11.24-19.20.44:218][698]LogModuleManager: Shutting down and abandoning module Kismet (484)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module KismetWidgets (483)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module GraphEditor (480)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module StructViewer (478)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module ClassViewer (476)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module Toolbox (474)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module ModuleUI (472)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module MovieSceneTools (470)
+[2019.11.24-19.20.44:228][698]LogModuleManager: Shutting down and abandoning module OutputLog (468)
+[2019.11.24-19.20.44:238][698]LogModuleManager: Shutting down and abandoning module GammaUI (466)
+[2019.11.24-19.20.44:238][698]LogModuleManager: Shutting down and abandoning module Documentation (464)
+[2019.11.24-19.20.44:241][698]LogModuleManager: Shutting down and abandoning module LiveCoding (462)
+[2019.11.24-19.20.44:241][698]LogModuleManager: Shutting down and abandoning module LevelSequence (460)
+[2019.11.24-19.20.44:241][698]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (458)
+[2019.11.24-19.20.44:241][698]LogModuleManager: Shutting down and abandoning module MovieScene (456)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (454)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module LauncherPlatform (452)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module AnalyticsET (450)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module AIModule (442)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module GameplayDebugger (441)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module AITestSuite (439)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module NavigationSystem (437)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module DesktopPlatform (434)
+[2019.11.24-19.20.44:242][698]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (432)
+[2019.11.24-19.20.44:246][698]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module ScreenshotTools (426)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module SteamVRController (424)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (422)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module OculusEditor (418)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module OculusInput (416)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (414)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2019.11.24-19.20.44:255][698]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (396)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (394)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (388)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (386)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (384)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module HTML5Networking (382)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (380)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (378)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module BackChannel (376)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (374)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AutomationUtils (372)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AlembicImporter (370)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module AlembicLibrary (369)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module GeometryCache (368)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (367)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module VariantManagerContent (362)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (360)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (358)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module PluginBrowser (356)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (354)
+[2019.11.24-19.20.44:256][698]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (352)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module CurveEditorTools (350)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module CurveEditor (349)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (346)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module CryptoKeys (344)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (342)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (340)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module UObjectPlugin (338)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (336)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (334)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module GitSourceControl (332)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module SourceControl (331)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (328)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (326)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (324)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (322)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (320)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (318)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (316)
+[2019.11.24-19.20.44:257][698]LogModuleManager: Shutting down and abandoning module Paper2DEditor (314)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module SignificanceManager (312)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (308)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (304)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (302)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module ApexDestruction (300)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.24-19.20.44:258][698]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.24-19.20.44:359][698]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.24-19.20.44:460][698]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.24-19.20.44:460][698]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.24-19.20.44:461][698]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.24-19.20.44:461][698]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.24-19.20.44:461][698]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.24-19.20.44:461][698]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.24-19.20.44:461][698]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.24-19.20.44:463][698]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.24-19.20.44:463][698]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.24-19.20.44:464][698]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.24-19.20.44:464][698]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.24-19.20.44:464][698]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.24-19.20.44:466][698]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.24-19.20.44:466][698]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.24-19.20.44:466][698]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.24-19.20.44:466][698]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.24-19.20.44:466][698]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.24-19.20.44:471][698]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.24-19.20.44:472][698]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.24-19.20.44:474][698]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.24-19.20.44:475][698]LogDerivedDataCache: Shutdown
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.24-19.20.44:475][698]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.24-19.20.44:476][698]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.24-19.20.44:476][698]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.24-19.20.44:476][698]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.24-19.20.44:476][698]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.24-19.20.44:476][698]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.24-19.20.44:485][698]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.24-19.20.44:485][698]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.24-19.20.44:485][698]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.24-19.20.44:485][698]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.24-19.20.44:485][698]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.24-19.20.44:489][698]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.24-19.20.44:489][698]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.24-19.20.44:493][698]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.24-19.20.44:493][698]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.24-19.20.44:518][698]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.24-19.20.44:518][698]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.24-19.20.44:518][698]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.24-19.20.44:518][698]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.24-19.20.44:518][698]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.24-19.20.44:519][698]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.24-19.20.44:519][698]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.24-19.20.44:520][698]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.24-19.20.44:520][698]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.24-19.20.44:520][698]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.24-19.20.44:520][698]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.24-19.20.44:521][698]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.24-19.20.44:521][698]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.24-19.20.44:543][698]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.24-19.20.44:543][698]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.24-19.20.44:543][698]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3C5C560-4A50-DB9F-4C6C-37B6FC5DCC70%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=666c8d96405f49242548eeb9fa07e078%7C68bdcb0a1deb48a2b9fa86d4a6b77cb5%7C4bac5e18-2d31-4004-bfa1-d046c9749ff9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.24-19.20.44:555][698]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.24-19.20.44:557][698]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.24-19.20.44:558][698]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.24-19.20.44:558][698]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.24-19.20.44:558][698]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.24-19.20.44:559][698]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.24-19.20.44:559][698]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.24-19.20.44:559][698]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.24-19.20.44:559][698]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.24-19.20.44:559][698]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.24-19.20.44:561][698]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.24-19.20.44:562][698]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.24-19.20.44:562][698]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.24-19.20.44:562][698]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.24-19.20.44:562][698]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.24-19.20.44:566][698]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.24-19.20.44:581][698]LogD3D11RHI: Shutdown
+[2019.11.24-19.20.44:581][698]LogD3D11RHI: CleanupD3DDevice
+[2019.11.24-19.20.44:582][698]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.24-19.20.44:582][698]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.24-19.20.44:582][698]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.24-19.20.44:796][698]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.24-19.20.44:808][698]LogExit: Exiting.
+[2019.11.24-19.20.44:820][698]Log file closed, 11/24/19 14:20:44

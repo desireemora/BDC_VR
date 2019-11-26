@@ -6141,3 +6141,666 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-13.55.54:767][ 97]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/HomeFB23C8AA47A33A8D084D70974011A625.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home.umap'
 [2019.11.26-13.55.54:814][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Home_BuiltData" FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset" SILENT=true
 [2019.11.26-13.55.55:356][ 97]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home_BuiltDataD7587E1543FA8B7EA14B678ACD9CB6BE.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset'
+[2019.11.26-14.11.01:330][360]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{bbcc7bed-ed2f-4a92-9ea1-a645a5c136fa} was removed. Shutting down audio device.
+[2019.11.26-14.11.01:330][360]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.28.15:257][459]LogInit: XAudio2 using '4 - DX-24E150A11 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.28.18:953][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.28.20:066][886]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.26-14.28.20:088][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.20:088][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-14.28.20:088][886]PIE: New page: PIE session: Home (Nov 26, 2019, 4:28:20 AM)
+[2019.11.26-14.28.20:088][886]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.28.20:099][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010465s)
+[2019.11.26-14.28.20:100][886]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.28.20:100][886]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2019.11.26-14.28.20:100][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Home.Home to /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home (0.011626s)
+[2019.11.26-14.28.20:140][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.26-14.28.20:153][886]LogInit: XAudio2 using '4 - DX-24E150A11 (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.28.20:163][886]LogInit: FAudioDevice initialized.
+[2019.11.26-14.28.20:163][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.28.20:171][886]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.28.20:173][886]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home up for play (max tick rate 0) at 2019.11.26-09.28.20
+[2019.11.26-14.28.20:173][886]LogWorld: Bringing up level for play took: 0.001820
+[2019.11.26-14.28.20:173][886]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2019.11.26-14.28.20:175][886]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Home 0.893
+[2019.11.26-14.28.20:175][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.20:212][886]LogAudio: Warning: Detected orphaned looping sound 'Back_music'.
+[2019.11.26-14.28.25:570][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.25:570][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.28.25:571][529]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.28.25:571][529]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.28.25:581][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-14.28.25:581][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.25:618][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.28.25:622][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.26-14.28.25:674][533]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.11.26-14.28.45:898][122]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.28.47:155][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.28.54:056][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.26-14.28.54:081][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.54:081][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-14.28.54:082][945]PIE: New page: PIE session: Home (Nov 26, 2019, 4:28:54 AM)
+[2019.11.26-14.28.54:082][945]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.28.54:092][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010156s)
+[2019.11.26-14.28.54:093][945]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.28.54:093][945]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2019.11.26-14.28.54:093][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Home.Home to /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home (0.011254s)
+[2019.11.26-14.28.54:131][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.26-14.28.54:144][945]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.28.54:153][945]LogInit: FAudioDevice initialized.
+[2019.11.26-14.28.54:153][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.28.54:163][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.28.54:165][945]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home up for play (max tick rate 0) at 2019.11.26-09.28.54
+[2019.11.26-14.28.54:165][945]LogWorld: Bringing up level for play took: 0.001405
+[2019.11.26-14.28.54:165][945]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2019.11.26-14.28.54:167][945]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Home 0.885
+[2019.11.26-14.28.54:167][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.28.54:199][945]LogAudio: Warning: Detected orphaned looping sound 'Back_music'.
+[2019.11.26-14.29.07:615][555]LogNet: Browse: /Game/FirstPersonBP/Maps/Level4
+[2019.11.26-14.29.07:615][555]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level4
+[2019.11.26-14.29.07:615][555]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.29.07:615][555]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.29.07:652][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.26-14.29.07:687][555]LogAIModule: Creating AISystem for world Level4
+[2019.11.26-14.29.07:687][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.29.07:698][555]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2019.11.26-09.29.07
+[2019.11.26-14.29.07:699][555]LogWorld: Bringing up level for play took: 0.011307
+[2019.11.26-14.29.07:700][555]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.26-14.29.07:700][555]LogLoad: Took 0.085225 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level4)
+[2019.11.26-14.29.07:702][555]LogAudio: Warning: Detected orphaned looping sound 'alien'.
+[2019.11.26-14.29.08:100][600]PIE: Warning: FirstPersonProjectile_C_0.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.09:600][780]PIE: Warning: FirstPersonProjectile_C_1.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.10:717][914]PIE: Warning: FirstPersonProjectile_C_2.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.10:742][917]PIE: Warning: FirstPersonProjectile_C_3.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.11:084][958]PIE: Warning: FirstPersonProjectile_C_6.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.11:100][960]PIE: Warning: FirstPersonProjectile_C_7.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.11:217][974]PIE: Warning: FirstPersonProjectile_C_9.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.11:617][ 22]PIE: Warning: FirstPersonProjectile_C_14.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.11:926][ 59]PIE: Warning: FirstPersonProjectile_C_17.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:217][ 94]PIE: Warning: FirstPersonProjectile_C_20.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:242][ 97]PIE: Warning: FirstPersonProjectile_C_21.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:243][ 97]PIE: Warning: FirstPersonProjectile_C_22.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:583][138]PIE: Warning: FirstPersonProjectile_C_26.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:717][154]PIE: Warning: FirstPersonProjectile_C_28.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.12:717][154]PIE: Warning: FirstPersonProjectile_C_29.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.13:117][202]PIE: Warning: FirstPersonProjectile_C_31.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.13:425][239]PIE: Warning: FirstPersonProjectile_C_34.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.13:717][274]PIE: Warning: FirstPersonProjectile_C_37.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.13:742][277]PIE: Warning: FirstPersonProjectile_C_38.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.13:742][277]PIE: Warning: FirstPersonProjectile_C_39.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.14:084][318]PIE: Warning: FirstPersonProjectile_C_42.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.14:217][334]PIE: Warning: FirstPersonProjectile_C_44.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.14:925][419]PIE: Warning: FirstPersonProjectile_C_50.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.15:117][442]PIE: Warning: FirstPersonProjectile_C_52.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.15:218][454]PIE: Warning: FirstPersonProjectile_C_54.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.15:242][457]PIE: Warning: FirstPersonProjectile_C_55.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.15:584][498]PIE: Warning: FirstPersonProjectile_C_58.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.15:742][517]PIE: Warning: FirstPersonProjectile_C_60.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.16:217][574]PIE: Warning: FirstPersonProjectile_C_64.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.16:218][574]PIE: Warning: FirstPersonProjectile_C_65.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.16:426][599]PIE: Warning: FirstPersonProjectile_C_68.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.16:717][634]PIE: Warning: FirstPersonProjectile_C_71.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.16:742][637]PIE: Warning: FirstPersonProjectile_C_72.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.17:084][678]PIE: Warning: FirstPersonProjectile_C_74.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.17:117][682]PIE: Warning: FirstPersonProjectile_C_75.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.17:717][754]PIE: Warning: FirstPersonProjectile_C_76.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.17:926][779]PIE: Warning: FirstPersonProjectile_C_77.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.18:217][814]PIE: Warning: FirstPersonProjectile_C_78.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.18:242][817]PIE: Warning: FirstPersonProjectile_C_79.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.18:583][858]PIE: Warning: FirstPersonProjectile_C_80.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.19:117][922]PIE: Warning: FirstPersonProjectile_C_83.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.19:217][934]PIE: Warning: FirstPersonProjectile_C_84.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.19:426][959]PIE: Warning: FirstPersonProjectile_C_87.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.19:718][994]PIE: Warning: FirstPersonProjectile_C_90.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.19:742][997]PIE: Warning: FirstPersonProjectile_C_91.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.20:084][ 38]PIE: Warning: FirstPersonProjectile_C_94.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.20:617][102]PIE: Warning: FirstPersonProjectile_C_98.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.20:717][114]PIE: Warning: FirstPersonProjectile_C_99.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.21:242][177]PIE: Warning: FirstPersonProjectile_C_101.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.21:425][199]PIE: Warning: FirstPersonProjectile_C_102.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.21:584][218]PIE: Warning: FirstPersonProjectile_C_103.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.22:117][282]PIE: Warning: FirstPersonProjectile_C_104.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.22:217][294]PIE: Warning: FirstPersonProjectile_C_105.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.22:217][294]PIE: Warning: FirstPersonProjectile_C_106.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.22:742][357]PIE: Warning: FirstPersonProjectile_C_107.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.23:084][398]PIE: Warning: FirstPersonProjectile_C_108.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.23:425][439]PIE: Warning: FirstPersonProjectile_C_109.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.23:617][462]PIE: Warning: FirstPersonProjectile_C_110.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.23:717][474]PIE: Warning: FirstPersonProjectile_C_111.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.24:216][534]PIE: Warning: FirstPersonProjectile_C_112.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.24:243][537]PIE: Warning: FirstPersonProjectile_C_113.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.24:585][575]PIE: Warning: FirstPersonProjectile_C_114.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.25:119][639]PIE: Warning: FirstPersonProjectile_C_115.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.25:219][651]PIE: Warning: FirstPersonProjectile_C_116.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.25:427][676]PIE: Warning: FirstPersonProjectile_C_117.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.25:718][711]PIE: Warning: FirstPersonProjectile_C_118.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.25:743][714]PIE: Warning: FirstPersonProjectile_C_119.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.26:085][755]PIE: Warning: FirstPersonProjectile_C_120.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.27:118][879]PIE: Warning: FirstPersonProjectile_C_121.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.27:219][891]PIE: Warning: FirstPersonProjectile_C_122.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.27:244][894]PIE: Warning: FirstPersonProjectile_C_123.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.27:427][916]PIE: Warning: FirstPersonProjectile_C_124.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.27:585][935]PIE: Warning: FirstPersonProjectile_C_125.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.28:619][ 59]PIE: Warning: FirstPersonProjectile_C_126.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.28:719][ 71]PIE: Warning: FirstPersonProjectile_C_127.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.28:927][ 96]PIE: Warning: FirstPersonProjectile_C_128.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.29:085][115]PIE: Warning: FirstPersonProjectile_C_129.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.29:743][194]PIE: Warning: FirstPersonProjectile_C_130.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.30:118][239]PIE: Warning: FirstPersonProjectile_C_131.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.30:219][251]PIE: Warning: FirstPersonProjectile_C_132.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.30:427][276]PIE: Warning: FirstPersonProjectile_C_133.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.30:585][295]PIE: Warning: FirstPersonProjectile_C_134.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.31:618][419]PIE: Warning: FirstPersonProjectile_C_135.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.31:743][434]PIE: Warning: FirstPersonProjectile_C_136.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.31:927][456]PIE: Warning: FirstPersonProjectile_C_137.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.32:085][475]PIE: Warning: FirstPersonProjectile_C_138.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.32:218][491]PIE: Warning: FirstPersonProjectile_C_139.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.33:118][599]PIE: Warning: FirstPersonProjectile_C_140.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.33:243][614]PIE: Warning: FirstPersonProjectile_C_141.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.33:426][636]PIE: Warning: FirstPersonProjectile_C_142.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.33:586][655]PIE: Warning: FirstPersonProjectile_C_143.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.34:619][779]PIE: Warning: FirstPersonProjectile_C_144.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.34:743][794]PIE: Warning: FirstPersonProjectile_C_145.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.34:926][816]PIE: Warning: FirstPersonProjectile_C_146.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.35:085][835]PIE: Warning: FirstPersonProjectile_C_147.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.36:119][959]PIE: Warning: FirstPersonProjectile_C_148.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.36:244][974]PIE: Warning: FirstPersonProjectile_C_149.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.36:426][996]PIE: Warning: FirstPersonProjectile_C_150.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.36:585][ 15]PIE: Warning: FirstPersonProjectile_C_151.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.37:744][154]PIE: Warning: FirstPersonProjectile_C_152.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.38:085][195]PIE: Warning: FirstPersonProjectile_C_153.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.38:118][199]PIE: Warning: FirstPersonProjectile_C_154.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.38:427][236]PIE: Warning: FirstPersonProjectile_C_155.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.39:586][375]PIE: Warning: FirstPersonProjectile_C_156.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.39:619][379]PIE: Warning: FirstPersonProjectile_C_157.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.40:927][536]PIE: Warning: FirstPersonProjectile_C_158.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.41:085][555]PIE: Warning: FirstPersonProjectile_C_159.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.41:119][559]PIE: Warning: FirstPersonProjectile_C_160.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.42:585][735]PIE: Warning: FirstPersonProjectile_C_161.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.43:244][814]PIE: Warning: FirstPersonProjectile_C_162.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.43:619][859]PIE: Warning: FirstPersonProjectile_C_163.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.43:927][896]PIE: Warning: FirstPersonProjectile_C_164.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.44:085][915]PIE: Warning: FirstPersonProjectile_C_165.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.29.44:761][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.29.44:761][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.29.44:761][996]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Level4
+[2019.11.26-14.29.44:761][996]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.29.44:775][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-14.29.44:775][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home' with GeneratedClass '/Game/FirstPersonBP/Maps/Home.Home_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home'
+[2019.11.26-14.29.44:816][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.29.44:820][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.26-14.29.44:829][996]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.29.44:863][998]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.11.26-14.29.46:422][185]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.29.46:425][185]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.29.59:089][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.29.59:253][724]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.26-14.30.12:322][ 69]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.30.14:528][327]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.30.14:547][327]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.30.22:371][232]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.30.22:374][232]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Home.Home:PersistentLevel.Home
+[2019.11.26-14.30.42:257][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.31.30:037][263]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall2)
+[2019.11.26-14.31.30:079][263]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.31.30:955][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2019.11.26-14.31.31:885][474]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.31.44:594][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.31.50:030][587]LogAIModule: Creating AISystem for world Level1
+[2019.11.26-14.31.50:044][587]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Level1.Level1
+[2019.11.26-14.31.50:086][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.26-14.31.51:552][587]LogSlate: Window 'Save Content' being destroyed
+[2019.11.26-14.31.51:604][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.26-14.31.51:869][587]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home24A347A84ACAC598A492C1BC6E318B47.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home.umap'
+[2019.11.26-14.31.51:923][587]LogFileHelpers: Saving map 'Home' took 0.364
+[2019.11.26-14.31.51:924][587]Cmd: MAP LOAD FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-14.31.51:924][587]LightingResults: New page: Lighting Build
+[2019.11.26-14.31.51:924][587]LoadErrors: New page: Loading map: Level1.umap
+[2019.11.26-14.31.51:957][587]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.31.52:013][587]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.31.52:014][587]MapCheck: New page: Map Check
+[2019.11.26-14.31.52:014][587]LightingResults: New page: Lighting Build
+[2019.11.26-14.31.52:063][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.26-14.31.53:416][587]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-14.31.53:456][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.26-14.31.53:495][587]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-14.31.53:496][587]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.11.26-14.31.53:496][587]LogFileHelpers: Loading map 'Level1' took 1.573
+[2019.11.26-14.31.53:584][587]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.31.55:832][849]LogEditorViewport: Clicking on Actor (LMB): TargetRotating_DM_Blueprint_C (TargetRotating_DM_Blueprint)
+[2019.11.26-14.31.57:338][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.31.57:394][ 31]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TargetRotating_DM_Blueprint.TargetRotating_DM_Blueprint
+[2019.11.26-14.32.38:604][ 11]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.32.40:769][261]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.32.40:785][261]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.32.58:640][341]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.32.58:643][341]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Level1.Level1:PersistentLevel.Level1
+[2019.11.26-14.33.54:372][ 16]BlueprintLog: New page: Compile Level1
+[2019.11.26-14.33.54:606][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.11.26-14.33.55:025][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.26-14.33.55:321][ 56]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Level16D24747849D622C7F48381A21186A1F8.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level1.umap'
+[2019.11.26-14.33.55:376][ 56]LogFileHelpers: Saving map 'Level1' took 0.394
+[2019.11.26-14.33.56:345][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.34.04:108][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.34.04:300][111]LogAIModule: Creating AISystem for world Level4
+[2019.11.26-14.34.04:316][111]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Level4.Level4
+[2019.11.26-14.34.04:356][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.26-14.34.04:357][111]Cmd: MAP LOAD FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-14.34.04:357][111]LightingResults: New page: Lighting Build
+[2019.11.26-14.34.04:357][111]LoadErrors: New page: Loading map: Level4.umap
+[2019.11.26-14.34.04:383][111]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.34.04:427][111]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.34.04:428][111]MapCheck: New page: Map Check
+[2019.11.26-14.34.04:428][111]LightingResults: New page: Lighting Build
+[2019.11.26-14.34.04:475][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.26-14.34.04:517][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.26-14.34.04:561][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.26-14.34.05:904][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-14.34.05:952][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.26-14.34.05:992][111]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-14.34.05:992][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2019.11.26-14.34.05:992][111]LogFileHelpers: Loading map 'Level4' took 1.636
+[2019.11.26-14.34.12:778][911]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.34.15:314][206]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2019.11.26-14.34.15:358][206]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.34.25:994][455]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.34.25:996][455]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4
+[2019.11.26-14.35.26:718][516]BlueprintLog: New page: Compile Level4
+[2019.11.26-14.35.26:961][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.26-14.35.27:523][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.11.26-14.35.27:810][572]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Level4D5B9C7C04BFEF5A48D6C4293CD049C4F.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level4.umap'
+[2019.11.26-14.35.27:862][572]LogFileHelpers: Saving map 'Level4' took 0.384
+[2019.11.26-14.35.31:041][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.35.34:482][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.35.35:326][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.26-14.35.35:350][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/FirstPersonBP/Maps/Level4.Level4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4'
+[2019.11.26-14.35.35:350][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-14.35.35:350][449]PIE: New page: PIE session: Level4 (Nov 26, 2019, 4:35:35 AM)
+[2019.11.26-14.35.35:350][449]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level4
+[2019.11.26-14.35.35:364][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013490s)
+[2019.11.26-14.35.35:365][449]LogAIModule: Creating AISystem for world Level4
+[2019.11.26-14.35.35:365][449]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2019.11.26-14.35.35:365][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level4.Level4 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level4.Level4 (0.014689s)
+[2019.11.26-14.35.35:409][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.26-14.35.35:422][449]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.35.35:432][449]LogInit: FAudioDevice initialized.
+[2019.11.26-14.35.35:433][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.35.35:442][449]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.35.35:445][449]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2019.11.26-09.35.35
+[2019.11.26-14.35.35:446][449]LogWorld: Bringing up level for play took: 0.003613
+[2019.11.26-14.35.35:447][449]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2019.11.26-14.35.35:448][449]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.26-14.35.35:448][449]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level4 0.167
+[2019.11.26-14.35.35:449][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/FirstPersonBP/Maps/Level4.Level4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4'
+[2019.11.26-14.35.35:474][449]LogAudio: Warning: Detected orphaned looping sound 'alien'.
+[2019.11.26-14.35.35:508][453]PIE: Warning: FirstPersonProjectile_C_0.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.37:007][633]PIE: Warning: FirstPersonProjectile_C_4.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:483][810]PIE: Warning: FirstPersonProjectile_C_7.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:483][810]PIE: Warning: FirstPersonProjectile_C_8.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:525][815]PIE: Warning: FirstPersonProjectile_C_9.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:633][828]PIE: Warning: FirstPersonProjectile_C_10.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:783][846]PIE: Warning: FirstPersonProjectile_C_11.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.38:983][870]PIE: Warning: FirstPersonProjectile_C_12.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.39:541][937]PIE: Warning: FirstPersonProjectile_C_13.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.39:983][990]PIE: Warning: FirstPersonProjectile_C_14.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.39:983][990]PIE: Warning: FirstPersonProjectile_C_15.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.40:016][994]PIE: Warning: FirstPersonProjectile_C_16.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.40:025][995]PIE: Warning: FirstPersonProjectile_C_17.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.40:133][  8]PIE: Warning: FirstPersonProjectile_C_18.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.40:283][ 26]PIE: Warning: FirstPersonProjectile_C_20.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.40:483][ 50]PIE: Warning: FirstPersonProjectile_C_22.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.41:483][170]PIE: Warning: FirstPersonProjectile_C_25.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.41:484][170]PIE: Warning: FirstPersonProjectile_C_26.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.41:525][175]PIE: Warning: FirstPersonProjectile_C_27.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.41:633][188]PIE: Warning: FirstPersonProjectile_C_29.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.41:983][230]PIE: Warning: FirstPersonProjectile_C_30.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.42:017][234]PIE: Warning: FirstPersonProjectile_C_32.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.42:983][350]PIE: Warning: FirstPersonProjectile_C_37.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.43:024][355]PIE: Warning: FirstPersonProjectile_C_38.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.43:133][368]PIE: Warning: FirstPersonProjectile_C_39.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.43:483][410]PIE: Warning: FirstPersonProjectile_C_40.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.43:516][414]PIE: Warning: FirstPersonProjectile_C_41.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.44:483][530]PIE: Warning: FirstPersonProjectile_C_42.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.44:525][535]PIE: Warning: FirstPersonProjectile_C_43.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.44:633][548]PIE: Warning: FirstPersonProjectile_C_44.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.44:983][590]PIE: Warning: FirstPersonProjectile_C_45.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.45:983][710]PIE: Warning: FirstPersonProjectile_C_48.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.46:016][714]PIE: Warning: FirstPersonProjectile_C_49.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.46:025][715]PIE: Warning: FirstPersonProjectile_C_50.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.46:133][728]PIE: Warning: FirstPersonProjectile_C_51.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.46:983][830]PIE: Warning: FirstPersonProjectile_C_54.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.47:483][890]PIE: Warning: FirstPersonProjectile_C_55.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.47:525][895]PIE: Warning: FirstPersonProjectile_C_56.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.48:983][ 70]PIE: Warning: FirstPersonProjectile_C_57.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.49:017][ 74]PIE: Warning: FirstPersonProjectile_C_58.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.49:025][ 75]PIE: Warning: FirstPersonProjectile_C_59.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.50:483][250]PIE: Warning: FirstPersonProjectile_C_60.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.50:516][254]PIE: Warning: FirstPersonProjectile_C_61.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.50:525][255]PIE: Warning: FirstPersonProjectile_C_62.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.51:983][430]PIE: Warning: FirstPersonProjectile_C_63.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.52:016][434]PIE: Warning: FirstPersonProjectile_C_64.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.52:025][435]PIE: Warning: FirstPersonProjectile_C_65.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.53:483][610]PIE: Warning: FirstPersonProjectile_C_66.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.53:516][614]PIE: Warning: FirstPersonProjectile_C_67.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.53:524][615]PIE: Warning: FirstPersonProjectile_C_68.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.54:983][790]PIE: Warning: FirstPersonProjectile_C_71.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.54:984][790]PIE: Warning: FirstPersonProjectile_C_72.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.55:016][794]PIE: Warning: FirstPersonProjectile_C_73.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.55:024][795]PIE: Warning: FirstPersonProjectile_C_74.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.56:484][970]PIE: Warning: FirstPersonProjectile_C_76.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.56:517][974]PIE: Warning: FirstPersonProjectile_C_77.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.56:526][975]PIE: Warning: FirstPersonProjectile_C_78.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.56:983][ 30]PIE: Warning: FirstPersonProjectile_C_79.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.57:983][150]PIE: Warning: FirstPersonProjectile_C_83.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.58:016][154]PIE: Warning: FirstPersonProjectile_C_84.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.58:025][155]PIE: Warning: FirstPersonProjectile_C_85.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.59:483][330]PIE: Warning: FirstPersonProjectile_C_88.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.59:517][334]PIE: Warning: FirstPersonProjectile_C_89.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.35.59:525][335]PIE: Warning: FirstPersonProjectile_C_90.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.00:983][510]PIE: Warning: FirstPersonProjectile_C_98.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.01:017][514]PIE: Warning: FirstPersonProjectile_C_100.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.01:025][515]PIE: Warning: FirstPersonProjectile_C_101.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.02:484][690]PIE: Warning: FirstPersonProjectile_C_107.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.02:526][695]PIE: Warning: FirstPersonProjectile_C_108.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.03:984][870]PIE: Warning: FirstPersonProjectile_C_112.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.03:984][870]PIE: Warning: FirstPersonProjectile_C_113.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.04:025][875]PIE: Warning: FirstPersonProjectile_C_114.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.05:483][ 50]PIE: Warning: FirstPersonProjectile_C_117.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.05:524][ 55]PIE: Warning: FirstPersonProjectile_C_118.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.06:983][230]PIE: Warning: FirstPersonProjectile_C_121.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.07:025][235]PIE: Warning: FirstPersonProjectile_C_122.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.07:984][350]PIE: Warning: FirstPersonProjectile_C_123.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.08:484][410]PIE: Warning: FirstPersonProjectile_C_125.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.08:525][415]PIE: Warning: FirstPersonProjectile_C_126.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.09:484][530]PIE: Warning: FirstPersonProjectile_C_129.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.09:983][590]PIE: Warning: FirstPersonProjectile_C_133.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.10:525][655]PIE: Warning: FirstPersonProjectile_C_138.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.10:984][710]PIE: Warning: FirstPersonProjectile_C_140.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.11:483][770]PIE: Warning: FirstPersonProjectile_C_142.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.12:025][835]PIE: Warning: FirstPersonProjectile_C_143.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.12:483][890]PIE: Warning: FirstPersonProjectile_C_144.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.12:983][950]PIE: Warning: FirstPersonProjectile_C_145.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.13:525][ 15]PIE: Warning: FirstPersonProjectile_C_146.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.14:484][130]PIE: Warning: FirstPersonProjectile_C_147.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.15:025][195]PIE: Warning: FirstPersonProjectile_C_148.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.16:532][372]PIE: Warning: FirstPersonProjectile_C_149.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.16:990][427]PIE: Warning: FirstPersonProjectile_C_150.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.18:033][552]PIE: Warning: FirstPersonProjectile_C_151.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.18:991][667]PIE: Warning: FirstPersonProjectile_C_152.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.19:533][732]PIE: Warning: FirstPersonProjectile_C_153.Sphere FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.26-14.36.20:323][827]LogNet: Browse: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.36.20:323][827]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.36.20:323][827]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Level4
+[2019.11.26-14.36.20:324][827]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.36.20:370][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.26-14.36.20:402][827]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.36.20:402][827]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.36.20:407][827]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home up for play (max tick rate 0) at 2019.11.26-09.36.20
+[2019.11.26-14.36.20:408][827]LogWorld: Bringing up level for play took: 0.004571
+[2019.11.26-14.36.20:409][827]LogLoad: Took 0.085341 seconds to LoadMap(/Game/FirstPersonBP/Maps/Home)
+[2019.11.26-14.36.20:410][827]LogAudio: Warning: Detected orphaned looping sound 'Back_music'.
+[2019.11.26-14.36.25:152][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/FirstPersonBP/Maps/Level4.Level4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4'
+[2019.11.26-14.36.25:152][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.36.25:152][394]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.36.25:152][394]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.36.25:162][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-14.36.25:162][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/FirstPersonBP/Maps/Level4.Level4_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level4.Level4:PersistentLevel.Level4'
+[2019.11.26-14.36.25:206][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.36.25:210][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.26-14.36.25:220][394]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.36.25:254][396]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.11.26-14.36.27:145][623]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.36.27:149][623]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.36.31:877][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.36.32:075][205]LogAIModule: Creating AISystem for world Level3
+[2019.11.26-14.36.32:103][205]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Level3.Level3
+[2019.11.26-14.36.32:148][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.26-14.36.32:150][205]Cmd: MAP LOAD FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-14.36.32:150][205]LightingResults: New page: Lighting Build
+[2019.11.26-14.36.32:150][205]LoadErrors: New page: Loading map: Level3.umap
+[2019.11.26-14.36.32:177][205]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.36.32:223][205]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.36.32:223][205]MapCheck: New page: Map Check
+[2019.11.26-14.36.32:223][205]LightingResults: New page: Lighting Build
+[2019.11.26-14.36.32:275][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.11.26-14.36.33:842][205]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-14.36.33:891][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.11.26-14.36.33:931][205]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-14.36.33:932][205]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2019.11.26-14.36.33:932][205]LogFileHelpers: Loading map 'Level3' took 1.783
+[2019.11.26-14.36.38:207][694]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.36.38:763][752]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.11.26-14.36.38:780][752]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.36.44:603][425]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.36.44:605][425]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3
+[2019.11.26-14.37.53:011][282]BlueprintLog: New page: Compile Level3
+[2019.11.26-14.37.53:246][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.11.26-14.38.14:890][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.11.26-14.38.17:956][139]LogEditorViewport: Clicking on Actor (LMB): missle_C (missle27)
+[2019.11.26-14.38.23:443][724]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.38.51:006][833]BlueprintLog: New page: Compile Level3
+[2019.11.26-14.38.51:244][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.11.26-14.38.52:025][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.26-14.38.52:357][917]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Level3336CA1E24C31269D9482D8B514ED299B.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level3.umap'
+[2019.11.26-14.38.52:410][917]LogFileHelpers: Saving map 'Level3' took 0.424
+[2019.11.26-14.39.01:045][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.39.59:851][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.26-14.40.00:181][834]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Level35B25151A41FE683063C178BEE8E949D6.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Level3.umap'
+[2019.11.26-14.40.00:241][834]LogFileHelpers: Saving map 'Level3' took 0.436
+[2019.11.26-14.40.01:471][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.40.02:944][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.40.03:663][213]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.26-14.40.03:690][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/FirstPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2019.11.26-14.40.03:690][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-14.40.03:691][213]PIE: New page: PIE session: Level3 (Nov 26, 2019, 4:40:03 AM)
+[2019.11.26-14.40.03:691][213]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Level3
+[2019.11.26-14.40.03:711][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020562s)
+[2019.11.26-14.40.03:712][213]LogAIModule: Creating AISystem for world Level3
+[2019.11.26-14.40.03:712][213]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2019.11.26-14.40.03:713][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Level3.Level3 to /Game/FirstPersonBP/Maps/UEDPIE_0_Level3.Level3 (0.021889s)
+[2019.11.26-14.40.03:759][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.11.26-14.40.03:772][213]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-14.40.03:782][213]LogInit: FAudioDevice initialized.
+[2019.11.26-14.40.03:782][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-14.40.03:786][213]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.40.03:791][213]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2019.11.26-09.40.03
+[2019.11.26-14.40.03:796][213]LogWorld: Bringing up level for play took: 0.010614
+[2019.11.26-14.40.03:796][213]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2019.11.26-14.40.03:799][213]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Level3 0.517
+[2019.11.26-14.40.03:799][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/FirstPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2019.11.26-14.40.03:825][213]LogAudio: Warning: Detected orphaned looping sound 'missle'.
+[2019.11.26-14.40.08:847][815]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=110.77 Y=-134.20 Z=0.00 Location: X=871.99 Y=-455.59 Z=258.34 Normal: X=-0.07 Y=0.89 Z=-0.44 PenetrationDepth:12.019 Actor:missle29 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.10:348][995]LogCharacterMovement: missle29 is stuck and failed to move! Velocity: X=-68.90 Y=-58.12 Z=0.00 Location: X=900.52 Y=-823.02 Z=258.45 Normal: X=0.89 Y=-0.20 Z=-0.41 PenetrationDepth:3.320 Actor:missle31_88 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.10:858][ 56]LogCharacterMovement: missle24_71 is stuck and failed to move! Velocity: X=25.38 Y=-169.23 Z=0.00 Location: X=-377.58 Y=-1029.58 Z=258.36 Normal: X=-0.18 Y=0.89 Z=-0.42 PenetrationDepth:7.780 Actor:missle9_26 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.11:350][115]LogCharacterMovement: missle3_8 is stuck and failed to move! Velocity: X=54.05 Y=-148.66 Z=0.00 Location: X=-923.24 Y=878.45 Z=258.66 Normal: X=0.26 Y=0.86 Z=-0.44 PenetrationDepth:16.677 Actor:missle18_53 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.12:350][235]LogCharacterMovement: missle7_20 is stuck and failed to move! Velocity: X=-114.33 Y=-16.25 Z=0.00 Location: X=54.00 Y=-1231.27 Z=258.43 Normal: X=0.80 Y=-0.44 Z=-0.40 PenetrationDepth:3.183 Actor:missle25_74 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.13:349][355]LogCharacterMovement: missle4_11 is stuck and failed to move! Velocity: X=-66.38 Y=-150.42 Z=0.00 Location: X=-403.11 Y=-59.27 Z=266.81 Normal: X=0.85 Y=0.40 Z=-0.34 PenetrationDepth:9.573 Actor:missle17_50 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.13:991][432]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-74.58 Y=-76.04 Z=0.00 Location: X=-216.19 Y=-1068.65 Z=258.32 Normal: X=0.64 Y=0.65 Z=-0.41 PenetrationDepth:0.142 Actor:missle25_74 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.14:350][475]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=-127.70 Y=-47.63 Z=0.00 Location: X=-378.39 Y=-513.61 Z=260.57 Normal: X=0.93 Y=-0.01 Z=-0.37 PenetrationDepth:7.576 Actor:missle10_29 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.14:860][536]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-95.81 Y=-4.90 Z=0.00 Location: X=-453.56 Y=-1122.97 Z=258.69 Normal: X=-0.06 Y=-0.90 Z=-0.43 PenetrationDepth:9.665 Actor:missle22_65 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.14:860][536]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=-127.84 Y=14.46 Z=0.00 Location: X=-270.96 Y=-588.70 Z=258.32 Normal: X=0.69 Y=-0.59 Z=-0.42 PenetrationDepth:6.811 Actor:missle13_38 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.15:857][655]LogCharacterMovement: missle17_50 is stuck and failed to move! Velocity: X=-17.51 Y=-0.13 Z=0.00 Location: X=-817.17 Y=-401.21 Z=260.36 Normal: X=0.84 Y=-0.37 Z=-0.41 PenetrationDepth:9.743 Actor:missle5_14 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.15:866][656]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-120.65 Y=125.40 Z=0.00 Location: X=-453.65 Y=-1124.51 Z=258.35 Normal: X=0.04 Y=-0.89 Z=-0.44 PenetrationDepth:12.140 Actor:missle22_65 Component:Cylinder BoneName:None (119 other events since notify)
+[2019.11.26-14.40.16:027][675]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=-165.48 Y=53.83 Z=0.00 Location: X=-650.03 Y=-492.05 Z=260.57 Normal: X=0.62 Y=-0.67 Z=-0.41 PenetrationDepth:10.534 Actor:missle17_50 Component:Cylinder BoneName:None (4 other events since notify)
+[2019.11.26-14.40.16:362][715]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-26.39 Y=94.97 Z=0.00 Location: X=-262.69 Y=-923.91 Z=260.38 Normal: X=0.08 Y=-0.92 Z=-0.38 PenetrationDepth:4.328 Actor:missle27_80 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.16:362][715]LogCharacterMovement: missle14_41 is stuck and failed to move! Velocity: X=-173.74 Y=-9.77 Z=0.00 Location: X=-871.48 Y=-110.02 Z=260.36 Normal: X=0.90 Y=0.02 Z=-0.44 PenetrationDepth:29.574 Actor:missle18_53 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.16:363][715]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=-141.60 Y=45.35 Z=0.00 Location: X=-596.18 Y=-324.50 Z=260.43 Normal: X=0.54 Y=-0.70 Z=-0.46 PenetrationDepth:21.784 Actor:missle4_11 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.16:636][748]LogCharacterMovement: missle4_11 is stuck and failed to move! Velocity: X=-153.37 Y=82.21 Z=0.00 Location: X=-758.59 Y=-233.48 Z=260.37 Normal: X=0.61 Y=-0.67 Z=-0.43 PenetrationDepth:29.650 Actor:missle14_41 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.16:871][776]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-92.85 Y=147.17 Z=0.00 Location: X=-453.65 Y=-1124.51 Z=258.35 Normal: X=0.37 Y=-0.82 Z=-0.43 PenetrationDepth:26.246 Actor:missle22_65 Component:Cylinder BoneName:None (119 other events since notify)
+[2019.11.26-14.40.16:896][779]LogCharacterMovement: missle31_88 is stuck and failed to move! Velocity: X=-90.15 Y=107.95 Z=0.00 Location: X=-104.71 Y=-993.51 Z=258.33 Normal: X=0.90 Y=0.11 Z=-0.41 PenetrationDepth:5.272 Actor:missle11_32 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.17:364][835]LogCharacterMovement: missle18_53 is stuck and failed to move! Velocity: X=-34.49 Y=161.91 Z=0.00 Location: X=-1159.90 Y=-41.45 Z=258.29 Normal: X=-0.70 Y=-0.65 Z=-0.29 PenetrationDepth:0.000 Actor:missle3_8 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.17:405][840]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-71.76 Y=154.79 Z=0.00 Location: X=-540.34 Y=-966.46 Z=258.57 Normal: X=0.31 Y=-0.87 Z=-0.39 PenetrationDepth:15.011 Actor:missle6_17 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.17:865][895]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=-13.83 Y=30.27 Z=0.00 Location: X=-477.42 Y=-426.32 Z=260.37 Normal: X=-0.24 Y=-0.90 Z=-0.37 PenetrationDepth:2.147 Actor:missle12_35 Component:Cylinder BoneName:None (3 other events since notify)
+[2019.11.26-14.40.18:006][912]LogCharacterMovement: missle27_80 is stuck and failed to move! Velocity: X=-14.27 Y=36.20 Z=0.00 Location: X=-497.75 Y=-600.77 Z=260.37 Normal: X=-0.67 Y=-0.64 Z=-0.39 PenetrationDepth:0.002 Actor:missle28_83 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.18:024][914]LogCharacterMovement: missle17_50 is stuck and failed to move! Velocity: X=-13.30 Y=71.77 Z=0.00 Location: X=-938.85 Y=-236.43 Z=260.37 Normal: X=-0.87 Y=-0.13 Z=-0.47 PenetrationDepth:4.731 Actor:missle4_11 Component:Cylinder BoneName:None (20 other events since notify)
+[2019.11.26-14.40.18:642][988]LogCharacterMovement: missle18_53 is stuck and failed to move! Velocity: X=128.48 Y=117.36 Z=0.00 Location: X=-1118.54 Y=124.84 Z=258.30 Normal: X=-0.89 Y=0.21 Z=-0.42 PenetrationDepth:1.269 Actor:missle14_41 Component:Cylinder BoneName:None (2 other events since notify)
+[2019.11.26-14.40.18:867][ 15]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=48.87 Y=151.85 Z=0.00 Location: X=-764.14 Y=-234.31 Z=260.37 Normal: X=-0.56 Y=-0.74 Z=-0.37 PenetrationDepth:1.018 Actor:missle16_47 Component:Cylinder BoneName:None (39 other events since notify)
+[2019.11.26-14.40.19:277][ 64]LogCharacterMovement: missle34_97 is stuck and failed to move! Velocity: X=-60.92 Y=94.22 Z=0.00 Location: X=-376.66 Y=-169.16 Z=260.12 Normal: X=0.92 Y=0.09 Z=-0.39 PenetrationDepth:0.566 Actor:missle12_35 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.19:367][ 75]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-28.87 Y=118.25 Z=0.00 Location: X=-384.19 Y=-626.63 Z=260.24 Normal: X=0.91 Y=-0.07 Z=-0.40 PenetrationDepth:2.118 Actor:missle27_80 Component:Cylinder BoneName:None (30 other events since notify)
+[2019.11.26-14.40.19:384][ 77]LogCharacterMovement: missle10_29 is stuck and failed to move! Velocity: X=18.86 Y=74.70 Z=0.00 Location: X=-880.29 Y=-330.59 Z=258.48 Normal: X=0.67 Y=-0.61 Z=-0.42 PenetrationDepth:4.875 Actor:missle17_50 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.20:021][153]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-38.03 Y=126.60 Z=0.00 Location: X=-428.75 Y=-288.16 Z=260.27 Normal: X=-0.64 Y=-0.61 Z=-0.47 PenetrationDepth:3.301 Actor:missle34_97 Component:Cylinder BoneName:None (9 other events since notify)
+[2019.11.26-14.40.20:145][168]LogCharacterMovement: missle18_53 is stuck and failed to move! Velocity: X=72.89 Y=45.81 Z=0.00 Location: X=-1036.89 Y=208.72 Z=258.68 Normal: X=-0.90 Y=0.07 Z=-0.43 PenetrationDepth:9.404 Actor:missle14_41 Component:Cylinder BoneName:None (5 other events since notify)
+[2019.11.26-14.40.20:170][171]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=5.76 Y=16.07 Z=0.00 Location: X=-748.15 Y=-196.90 Z=259.57 Normal: X=-0.33 Y=-0.87 Z=-0.35 PenetrationDepth:10.456 Actor:missle16_47 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.20:371][195]LogCharacterMovement: missle5_14 is stuck and failed to move! Velocity: X=38.11 Y=67.79 Z=0.00 Location: X=-990.75 Y=48.19 Z=259.92 Normal: X=-0.86 Y=0.33 Z=-0.39 PenetrationDepth:0.495 Actor:missle4_11 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.20:371][195]LogCharacterMovement: missle14_41 is stuck and failed to move! Velocity: X=141.13 Y=68.26 Z=0.00 Location: X=-829.82 Y=278.06 Z=259.96 Normal: X=-0.86 Y=0.29 Z=-0.42 PenetrationDepth:5.847 Actor:missle15_44 Component:Cylinder BoneName:None (20 other events since notify)
+[2019.11.26-14.40.20:372][195]LogCharacterMovement: missle27_80 is stuck and failed to move! Velocity: X=22.44 Y=91.90 Z=0.00 Location: X=-518.39 Y=-407.63 Z=260.37 Normal: X=-0.80 Y=-0.43 Z=-0.41 PenetrationDepth:11.186 Actor:missle32_91 Component:Cylinder BoneName:None (2 other events since notify)
+[2019.11.26-14.40.20:414][200]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=40.18 Y=169.31 Z=0.00 Location: X=-628.05 Y=-549.18 Z=258.28 Normal: X=-0.88 Y=-0.24 Z=-0.41 PenetrationDepth:0.302 Actor:missle27_80 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.20:871][255]LogCharacterMovement: missle10_29 is stuck and failed to move! Velocity: X=110.88 Y=118.15 Z=0.00 Location: X=-865.57 Y=-250.17 Z=260.14 Normal: X=-0.84 Y=-0.41 Z=-0.35 PenetrationDepth:3.212 Actor:missle13_38 Component:Cylinder BoneName:None (3 other events since notify)
+[2019.11.26-14.40.20:872][255]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=59.11 Y=124.52 Z=0.00 Location: X=-498.29 Y=-629.49 Z=258.91 Normal: X=-0.88 Y=-0.20 Z=-0.42 PenetrationDepth:3.953 Actor:missle11_32 Component:Cylinder BoneName:None (101 other events since notify)
+[2019.11.26-14.40.20:889][257]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=96.90 Y=138.28 Z=0.00 Location: X=-523.06 Y=-74.77 Z=259.63 Normal: X=-0.78 Y=0.42 Z=-0.47 PenetrationDepth:9.591 Actor:missle34_97 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.21:096][282]LogCharacterMovement: missle19_56 is stuck and failed to move! Velocity: X=95.83 Y=145.25 Z=0.00 Location: X=-1045.81 Y=-87.51 Z=258.28 Normal: X=-0.86 Y=0.32 Z=-0.39 PenetrationDepth:0.359 Actor:missle17_50 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.21:188][293]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=38.80 Y=58.76 Z=0.00 Location: X=-688.27 Y=-104.46 Z=260.37 Normal: X=-0.82 Y=0.41 Z=-0.40 PenetrationDepth:1.823 Actor:missle28_83 Component:Cylinder BoneName:None (9 other events since notify)
+[2019.11.26-14.40.21:372][315]LogCharacterMovement: missle4_11 is stuck and failed to move! Velocity: X=152.09 Y=-2.78 Z=0.00 Location: X=-737.52 Y=131.93 Z=260.26 Normal: X=-0.64 Y=0.66 Z=-0.40 PenetrationDepth:2.110 Actor:missle16_47 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.21:372][315]LogCharacterMovement: missle3_8 is stuck and failed to move! Velocity: X=170.22 Y=-35.57 Z=0.00 Location: X=-662.97 Y=478.87 Z=258.31 Normal: X=-0.41 Y=0.81 Z=-0.42 PenetrationDepth:7.395 Actor:missle15_44 Component:Cylinder BoneName:None (9 other events since notify)
+[2019.11.26-14.40.22:081][400]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=8.45 Y=14.83 Z=0.00 Location: X=-297.82 Y=-365.27 Z=260.20 Normal: X=-0.85 Y=-0.33 Z=-0.42 PenetrationDepth:0.000 Actor:missle31_88 Component:Cylinder BoneName:None (4 other events since notify)
+[2019.11.26-14.40.22:374][435]LogCharacterMovement: missle18_53 is stuck and failed to move! Velocity: X=158.69 Y=-71.41 Z=0.00 Location: X=-744.85 Y=227.00 Z=258.30 Normal: X=-0.22 Y=0.89 Z=-0.41 PenetrationDepth:2.503 Actor:missle4_11 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.22:382][436]LogCharacterMovement: missle17_50 is stuck and failed to move! Velocity: X=16.99 Y=-1.61 Z=0.00 Location: X=-834.30 Y=-49.03 Z=260.26 Normal: X=-0.89 Y=0.24 Z=-0.39 PenetrationDepth:20.470 Actor:missle13_38 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.22:424][441]LogCharacterMovement: missle6_17 is stuck and failed to move! Velocity: X=16.92 Y=2.21 Z=0.00 Location: X=-566.30 Y=-234.43 Z=260.17 Normal: X=-0.89 Y=-0.02 Z=-0.45 PenetrationDepth:30.323 Actor:missle27_80 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.22:692][473]LogCharacterMovement: missle4_11 is stuck and failed to move! Velocity: X=14.92 Y=-8.30 Z=0.00 Location: X=-563.70 Y=79.50 Z=260.25 Normal: X=-0.14 Y=0.90 Z=-0.41 PenetrationDepth:10.665 Actor:missle28_83 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.22:876][495]LogCharacterMovement: missle24_71 is stuck and failed to move! Velocity: X=88.67 Y=-1.53 Z=0.00 Location: X=-685.68 Y=-358.57 Z=260.15 Normal: X=-0.80 Y=0.45 Z=-0.39 PenetrationDepth:11.164 Actor:missle22_65 Component:Cylinder BoneName:None (5 other events since notify)
+[2019.11.26-14.40.23:309][547]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=56.79 Y=-50.62 Z=0.00 Location: X=-407.44 Y=-80.14 Z=266.22 Normal: X=0.41 Y=0.86 Z=-0.29 PenetrationDepth:3.218 Actor:missle27_80 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.23:375][555]LogCharacterMovement: missle15_44 is stuck and failed to move! Velocity: X=96.90 Y=-144.26 Z=0.00 Location: X=-299.22 Y=189.95 Z=258.36 Normal: X=0.30 Y=0.80 Z=-0.52 PenetrationDepth:1.247 Actor:missle16_47 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.23:376][555]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=164.85 Y=-55.73 Z=0.00 Location: X=-420.45 Y=-406.97 Z=260.37 Normal: X=-0.35 Y=0.83 Z=-0.42 PenetrationDepth:13.608 Actor:missle25_74 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.23:376][555]LogCharacterMovement: missle27_80 is stuck and failed to move! Velocity: X=87.95 Y=-61.33 Z=0.00 Location: X=-311.16 Y=-229.49 Z=258.85 Normal: X=-0.46 Y=0.79 Z=-0.41 PenetrationDepth:11.651 Actor:missle11_32 Component:Cylinder BoneName:None (4 other events since notify)
+[2019.11.26-14.40.23:383][556]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=43.20 Y=-27.48 Z=0.00 Location: X=-592.22 Y=-98.10 Z=260.14 Normal: X=-0.03 Y=0.91 Z=-0.41 PenetrationDepth:5.497 Actor:missle6_17 Component:Cylinder BoneName:None (45 other events since notify)
+[2019.11.26-14.40.23:525][573]LogCharacterMovement: missle10_29 is stuck and failed to move! Velocity: X=25.84 Y=-5.61 Z=0.00 Location: X=-733.72 Y=-233.18 Z=260.37 Normal: X=0.30 Y=0.83 Z=-0.47 PenetrationDepth:3.980 Actor:missle24_71 Component:Cylinder BoneName:None (13 other events since notify)
+[2019.11.26-14.40.23:651][588]LogCharacterMovement: missle5_14 is stuck and failed to move! Velocity: X=18.04 Y=-17.68 Z=0.00 Location: X=-842.88 Y=100.29 Z=260.24 Normal: X=0.27 Y=0.88 Z=-0.39 PenetrationDepth:0.040 Actor:missle17_50 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.23:693][593]LogCharacterMovement: missle4_11 is stuck and failed to move! Velocity: X=68.89 Y=-159.80 Z=0.00 Location: X=-544.89 Y=71.63 Z=259.31 Normal: X=-0.70 Y=0.60 Z=-0.40 PenetrationDepth:0.901 Actor:missle28_83 Component:Cylinder BoneName:None (42 other events since notify)
+[2019.11.26-14.40.23:876][615]LogCharacterMovement: missle6_17 is stuck and failed to move! Velocity: X=103.77 Y=-131.32 Z=0.00 Location: X=-448.39 Y=-270.23 Z=258.67 Normal: X=0.14 Y=0.90 Z=-0.42 PenetrationDepth:8.995 Actor:missle22_65 Component:Cylinder BoneName:None (11 other events since notify)
+[2019.11.26-14.40.23:885][616]LogCharacterMovement: missle3_8 is stuck and failed to move! Velocity: X=56.50 Y=-164.48 Z=0.00 Location: X=-370.33 Y=320.24 Z=260.32 Normal: X=-0.58 Y=0.73 Z=-0.37 PenetrationDepth:7.732 Actor:missle15_44 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.24:375][675]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-55.60 Y=-155.87 Z=0.00 Location: X=-127.58 Y=-472.29 Z=260.20 Normal: X=0.53 Y=0.71 Z=-0.46 PenetrationDepth:23.650 Actor:missle25_74 Component:Cylinder BoneName:None (22 other events since notify)
+[2019.11.26-14.40.24:376][675]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=9.01 Y=-99.26 Z=0.00 Location: X=-380.88 Y=-139.13 Z=267.94 Normal: X=0.78 Y=0.55 Z=-0.31 PenetrationDepth:0.524 Actor:missle6_17 Component:Cylinder BoneName:None (37 other events since notify)
+[2019.11.26-14.40.24:376][675]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-33.75 Y=-154.93 Z=0.00 Location: X=-53.68 Y=-294.84 Z=258.34 Normal: X=0.56 Y=0.72 Z=-0.41 PenetrationDepth:10.326 Actor:missle11_32 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.24:409][679]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=-0.48 Y=-17.06 Z=0.00 Location: X=-205.15 Y=-151.49 Z=271.65 Normal: X=-0.05 Y=1.00 Z=-0.00 PenetrationDepth:16.664 Actor:missle27_80 Component:Cylinder BoneName:None (21 other events since notify)
+[2019.11.26-14.40.25:076][759]LogCharacterMovement: missle6_17 is stuck and failed to move! Velocity: X=-36.54 Y=-170.13 Z=0.00 Location: X=-433.37 Y=-383.81 Z=260.37 Normal: X=0.56 Y=0.74 Z=-0.37 PenetrationDepth:2.353 Actor:missle24_71 Component:Cylinder BoneName:None (13 other events since notify)
+[2019.11.26-14.40.25:376][795]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-82.68 Y=-75.24 Z=0.00 Location: X=-190.13 Y=-550.78 Z=260.38 Normal: X=0.89 Y=-0.16 Z=-0.43 PenetrationDepth:8.148 Actor:missle22_65 Component:Cylinder BoneName:None (12 other events since notify)
+[2019.11.26-14.40.25:377][795]LogCharacterMovement: missle13_38 is stuck and failed to move! Velocity: X=-25.93 Y=-144.75 Z=0.00 Location: X=-543.19 Y=-276.46 Z=260.19 Normal: X=0.46 Y=0.82 Z=-0.36 PenetrationDepth:4.506 Actor:missle10_29 Component:Cylinder BoneName:None (42 other events since notify)
+[2019.11.26-14.40.25:393][797]LogCharacterMovement: missle15_44 is stuck and failed to move! Velocity: X=-7.01 Y=-15.56 Z=0.00 Location: X=-268.38 Y=-25.14 Z=271.65 Normal: X=0.34 Y=0.94 Z=-0.00 PenetrationDepth:13.286 Actor:missle28_83 Component:Cylinder BoneName:None (3 other events since notify)
+[2019.11.26-14.40.25:876][855]LogCharacterMovement: missle18_53 is stuck and failed to move! Velocity: X=-11.07 Y=-154.46 Z=0.00 Location: X=-678.25 Y=-1.50 Z=260.37 Normal: X=0.81 Y=0.39 Z=-0.43 PenetrationDepth:14.797 Actor:missle5_14 Component:Cylinder BoneName:None (33 other events since notify)
+[2019.11.26-14.40.26:376][915]LogCharacterMovement: missle2_5 is stuck and failed to move! Velocity: X=-31.06 Y=-84.82 Z=0.00 Location: X=-71.34 Y=-201.42 Z=258.74 Normal: X=0.88 Y=-0.12 Z=-0.45 PenetrationDepth:14.542 Actor:missle16_47 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.26:376][915]LogCharacterMovement: missle6_17 is stuck and failed to move! Velocity: X=-56.63 Y=-33.27 Z=0.00 Location: X=-496.51 Y=-528.37 Z=260.37 Normal: X=0.90 Y=-0.01 Z=-0.45 PenetrationDepth:16.929 Actor:missle10_29 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.26:377][915]LogCharacterMovement: missle28_83 is stuck and failed to move! Velocity: X=-93.40 Y=-78.55 Z=0.00 Location: X=-426.39 Y=-293.78 Z=260.19 Normal: X=0.90 Y=-0.14 Z=-0.42 PenetrationDepth:6.796 Actor:missle13_38 Component:Cylinder BoneName:None (2 other events since notify)
+[2019.11.26-14.40.26:876][975]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-110.32 Y=-65.99 Z=0.00 Location: X=-317.75 Y=-650.39 Z=258.31 Normal: X=0.65 Y=0.66 Z=-0.38 PenetrationDepth:0.329 Actor:missle22_65 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.26:877][975]LogCharacterMovement: missle14_41 is stuck and failed to move! Velocity: X=-82.45 Y=-153.24 Z=0.00 Location: X=-595.06 Y=-13.97 Z=260.28 Normal: X=0.92 Y=-0.00 Z=-0.39 PenetrationDepth:1.651 Actor:missle18_53 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.26:885][976]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-93.74 Y=-69.77 Z=0.00 Location: X=-481.44 Y=-911.12 Z=258.67 Normal: X=0.75 Y=-0.48 Z=-0.46 PenetrationDepth:24.396 Actor:missle24_71 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.27:159][  9]LogCharacterMovement: missle3_8 is stuck and failed to move! Velocity: X=-102.39 Y=-113.66 Z=0.00 Location: X=-446.89 Y=14.96 Z=259.50 Normal: X=0.88 Y=-0.25 Z=-0.41 PenetrationDepth:1.737 Actor:missle14_41 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.27:376][ 35]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-144.94 Y=-1.64 Z=0.00 Location: X=-228.52 Y=-506.50 Z=258.32 Normal: X=0.90 Y=-0.25 Z=-0.36 PenetrationDepth:1.115 Actor:missle27_80 Component:Cylinder BoneName:None (33 other events since notify)
+[2019.11.26-14.40.27:877][ 95]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-114.46 Y=118.15 Z=0.00 Location: X=-620.35 Y=-698.63 Z=260.23 Normal: X=-0.14 Y=-0.90 Z=-0.41 PenetrationDepth:4.176 Actor:missle6_17 Component:Cylinder BoneName:None (15 other events since notify)
+[2019.11.26-14.40.28:377][155]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-12.22 Y=11.92 Z=0.00 Location: X=-491.85 Y=-587.00 Z=260.37 Normal: X=0.14 Y=-0.91 Z=-0.39 PenetrationDepth:6.639 Actor:missle27_80 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.28:377][155]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=-138.75 Y=89.58 Z=0.00 Location: X=-457.53 Y=-306.33 Z=260.41 Normal: X=0.17 Y=-0.89 Z=-0.42 PenetrationDepth:12.245 Actor:missle15_44 Component:Cylinder BoneName:None (23 other events since notify)
+[2019.11.26-14.40.28:877][215]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-95.10 Y=110.88 Z=0.00 Location: X=-394.90 Y=-435.64 Z=260.30 Normal: X=0.25 Y=-0.90 Z=-0.36 PenetrationDepth:5.935 Actor:missle16_47 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.29:376][275]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-16.73 Y=173.21 Z=0.00 Location: X=-683.23 Y=-500.08 Z=260.25 Normal: X=-0.13 Y=-0.94 Z=-0.33 PenetrationDepth:2.743 Actor:missle27_80 Component:Cylinder BoneName:None (11 other events since notify)
+[2019.11.26-14.40.29:885][336]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=-15.26 Y=7.64 Z=0.00 Location: X=-563.89 Y=-155.50 Z=260.20 Normal: X=0.19 Y=-0.89 Z=-0.41 PenetrationDepth:4.222 Actor:missle15_44 Component:Cylinder BoneName:None (12 other events since notify)
+[2019.11.26-14.40.30:377][395]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-90.06 Y=22.49 Z=0.00 Location: X=-543.77 Y=-477.78 Z=260.22 Normal: X=0.85 Y=-0.36 Z=-0.38 PenetrationDepth:18.044 Actor:missle22_65 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.31:918][580]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=-52.83 Y=-2.98 Z=0.00 Location: X=-625.63 Y=-131.48 Z=260.37 Normal: X=0.14 Y=0.87 Z=-0.47 PenetrationDepth:3.650 Actor:missle27_80 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.32:202][614]LogCharacterMovement: missle29 is stuck and failed to move! Velocity: X=-16.99 Y=9.42 Z=0.00 Location: X=-721.13 Y=-558.32 Z=260.37 Normal: X=0.75 Y=-0.66 Z=-0.00 PenetrationDepth:16.726 Actor:missle25_74 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.32:377][635]LogCharacterMovement: missle15_44 is stuck and failed to move! Velocity: X=-113.19 Y=-132.17 Z=0.00 Location: X=-897.19 Y=-18.68 Z=258.73 Normal: X=0.16 Y=0.88 Z=-0.46 PenetrationDepth:19.979 Actor:missle24_71 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.32:378][635]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-17.02 Y=-2.64 Z=0.00 Location: X=-585.92 Y=-300.38 Z=260.30 Normal: X=0.63 Y=0.66 Z=-0.41 PenetrationDepth:10.646 Actor:missle22_65 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.11.26-14.40.32:561][657]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-16.49 Y=-4.61 Z=0.00 Location: X=-758.62 Y=-370.97 Z=260.37 Normal: X=-0.05 Y=0.88 Z=-0.47 PenetrationDepth:3.630 Actor:missle25_74 Component:Cylinder BoneName:None (1 other events since notify)
+[2019.11.26-14.40.32:877][695]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-119.76 Y=-24.48 Z=0.00 Location: X=-611.24 Y=-475.42 Z=259.17 Normal: X=0.40 Y=0.81 Z=-0.44 PenetrationDepth:12.318 Actor:missle29 Component:Cylinder BoneName:None (31 other events since notify)
+[2019.11.26-14.40.33:376][755]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-141.51 Y=-101.27 Z=0.00 Location: X=-581.87 Y=-300.27 Z=258.49 Normal: X=0.92 Y=-0.09 Z=-0.39 PenetrationDepth:5.417 Actor:missle22_65 Component:Cylinder BoneName:None (73 other events since notify)
+[2019.11.26-14.40.34:376][875]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=-9.37 Y=-17.84 Z=0.00 Location: X=-672.57 Y=-525.96 Z=258.76 Normal: X=0.84 Y=0.25 Z=-0.48 PenetrationDepth:22.504 Actor:missle29 Component:Cylinder BoneName:None (9 other events since notify)
+[2019.11.26-14.40.34:535][894]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-112.89 Y=-132.42 Z=0.00 Location: X=-591.55 Y=-349.93 Z=259.85 Normal: X=-0.10 Y=0.92 Z=-0.38 PenetrationDepth:0.753 Actor:missle11_32 Component:Cylinder BoneName:None (2 other events since notify)
+[2019.11.26-14.40.35:010][951]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-95.76 Y=-93.94 Z=0.00 Location: X=-807.79 Y=-412.02 Z=260.37 Normal: X=0.91 Y=0.07 Z=-0.41 PenetrationDepth:11.012 Actor:missle25_74 Component:Cylinder BoneName:None (16 other events since notify)
+[2019.11.26-14.40.37:976][307]LogCharacterMovement: missle22_65 is stuck and failed to move! Velocity: X=-11.65 Y=-12.47 Z=0.00 Location: X=-815.77 Y=-418.01 Z=260.09 Normal: X=0.89 Y=0.24 Z=-0.40 PenetrationDepth:8.150 Actor:missle25_74 Component:Cylinder BoneName:None (14 other events since notify)
+[2019.11.26-14.40.38:002][310]LogCharacterMovement: missle32_91 is stuck and failed to move! Velocity: X=-146.96 Y=-86.58 Z=0.00 Location: X=-645.43 Y=-464.30 Z=259.00 Normal: X=-0.32 Y=0.82 Z=-0.47 PenetrationDepth:22.221 Actor:missle11_32 Component:Cylinder BoneName:None (2 other events since notify)
+[2019.11.26-14.40.38:377][355]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-36.46 Y=-143.28 Z=0.00 Location: X=-981.19 Y=-558.15 Z=260.15 Normal: X=-0.20 Y=0.86 Z=-0.46 PenetrationDepth:26.302 Actor:missle29 Component:Cylinder BoneName:None (17 other events since notify)
+[2019.11.26-14.40.38:402][358]LogCharacterMovement: missle15_44 is stuck and failed to move! Velocity: X=-6.54 Y=-50.78 Z=0.00 Location: X=-895.90 Y=-32.03 Z=260.17 Normal: X=0.89 Y=0.19 Z=-0.41 PenetrationDepth:4.631 Actor:missle24_71 Component:Cylinder BoneName:None (83 other events since notify)
+[2019.11.26-14.40.39:377][475]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=4.17 Y=-102.63 Z=0.00 Location: X=-744.71 Y=-439.77 Z=260.14 Normal: X=-0.32 Y=0.86 Z=-0.40 PenetrationDepth:18.200 Actor:missle32_91 Component:Cylinder BoneName:None (6 other events since notify)
+[2019.11.26-14.40.39:886][536]LogCharacterMovement: missle11_32 is stuck and failed to move! Velocity: X=28.15 Y=-20.68 Z=0.00 Location: X=-882.37 Y=-777.16 Z=258.64 Normal: X=0.60 Y=0.65 Z=-0.46 PenetrationDepth:15.714 Actor:missle29 Component:Cylinder BoneName:None (19 other events since notify)
+[2019.11.26-14.40.39:886][536]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=-7.96 Y=-109.23 Z=0.00 Location: X=-1045.71 Y=-699.52 Z=258.62 Normal: X=-0.82 Y=0.40 Z=-0.41 PenetrationDepth:26.536 Actor:missle11_32 Component:Cylinder BoneName:None (5 other events since notify)
+[2019.11.26-14.40.41:394][717]LogCharacterMovement: missle25_74 is stuck and failed to move! Velocity: X=76.50 Y=-156.30 Z=0.00 Location: X=-974.61 Y=-898.89 Z=258.61 Normal: X=-0.62 Y=-0.64 Z=-0.45 PenetrationDepth:13.094 Actor:missle11_32 Component:Cylinder BoneName:None (30 other events since notify)
+[2019.11.26-14.40.41:877][775]LogCharacterMovement: missle24_71 is stuck and failed to move! Velocity: X=39.09 Y=-141.26 Z=0.00 Location: X=-882.43 Y=-293.95 Z=260.37 Normal: X=-0.85 Y=0.35 Z=-0.39 PenetrationDepth:0.052 Actor:missle15_44 Component:Cylinder BoneName:None (7 other events since notify)
+[2019.11.26-14.40.42:377][835]LogCharacterMovement: missle16_47 is stuck and failed to move! Velocity: X=9.42 Y=-89.67 Z=0.00 Location: X=-606.45 Y=-819.01 Z=258.71 Normal: X=0.56 Y=0.71 Z=-0.43 PenetrationDepth:10.705 Actor:missle11_32 Component:Cylinder BoneName:None (5 other events since notify)
+[2019.11.26-14.40.42:393][837]LogCharacterMovement: missle2_5 is stuck and failed to move! Velocity: X=1.39 Y=-114.38 Z=0.00 Location: X=-619.16 Y=-613.36 Z=258.71 Normal: X=0.85 Y=0.21 Z=-0.48 PenetrationDepth:22.888 Actor:missle27_80 Component:Cylinder BoneName:None (67 other events since notify)
+[2019.11.26-14.40.48:660][589]LogNet: Browse: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.40.48:660][589]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.40.48:660][589]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Level3
+[2019.11.26-14.40.48:660][589]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.40.48:708][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.26-14.40.48:734][589]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.40.48:734][589]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.40.48:738][589]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home up for play (max tick rate 0) at 2019.11.26-09.40.48
+[2019.11.26-14.40.48:738][589]LogWorld: Bringing up level for play took: 0.003448
+[2019.11.26-14.40.48:739][589]LogLoad: Took 0.078992 seconds to LoadMap(/Game/FirstPersonBP/Maps/Home)
+[2019.11.26-14.40.48:740][589]LogAudio: Warning: Detected orphaned looping sound 'Back_music'.
+[2019.11.26-14.40.54:690][302]LogNet: Browse: /Game/FirstPersonBP/Maps/Level2
+[2019.11.26-14.40.54:691][302]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level2
+[2019.11.26-14.40.54:691][302]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.40.54:691][302]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.40.54:734][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.26-14.40.54:760][302]LogAIModule: Creating AISystem for world Level2
+[2019.11.26-14.40.54:760][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.40.54:765][302]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2019.11.26-09.40.54
+[2019.11.26-14.40.54:765][302]LogWorld: Bringing up level for play took: 0.004681
+[2019.11.26-14.40.54:766][302]LogLoad: Took 0.075714 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level2)
+[2019.11.26-14.40.54:767][302]LogAudio: Warning: Detected orphaned looping sound 'can_stress'.
+[2019.11.26-14.40.56:599][517]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonProjectile_C_0 via property K2Node_Event_Other, but FirstPersonProjectile_C_0 is pending kill". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.40.56:599][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.40.59:392][852]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonProjectile_C_1 via property K2Node_Event_Other, but FirstPersonProjectile_C_1 is pending kill". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.40.59:392][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.03:249][315]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonProjectile_C_5 via property K2Node_Event_Other, but FirstPersonProjectile_C_5 is pending kill". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.03:249][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.06:866][749]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonProjectile_C_8 via property K2Node_Event_Other, but FirstPersonProjectile_C_8 is pending kill". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.06:866][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.11:225][272]PIE: Error: Blueprint Runtime Error: "Attempted to access FirstPersonProjectile_C_11 via property K2Node_Event_Other, but FirstPersonProjectile_C_11 is pending kill". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.11:225][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Tin_Can_Blueprint Function:  Execute Ubergraph Tin Can Blueprint Graph:  EventGraph Node:  Branch
+[2019.11.26-14.41.14:933][717]LogNet: Browse: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.41.14:933][717]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Home
+[2019.11.26-14.41.14:933][717]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Level2
+[2019.11.26-14.41.14:933][717]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.41.14:975][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.26-14.41.15:002][717]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.41.15:002][717]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.41.15:006][717]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Home.Home up for play (max tick rate 0) at 2019.11.26-09.41.15
+[2019.11.26-14.41.15:006][717]LogWorld: Bringing up level for play took: 0.003422
+[2019.11.26-14.41.15:007][717]LogLoad: Took 0.074631 seconds to LoadMap(/Game/FirstPersonBP/Maps/Home)
+[2019.11.26-14.41.15:008][717]LogAudio: Warning: Detected orphaned looping sound 'Back_music'.
+[2019.11.26-14.41.22:696][639]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2019.11.26-14.41.22:696][639]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2019.11.26-14.41.22:696][639]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Home
+[2019.11.26-14.41.22:697][639]LogWorld: UWorld::CleanupWorld for Home, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.41.22:742][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.26-14.41.22:779][639]LogAIModule: Creating AISystem for world Level1
+[2019.11.26-14.41.22:779][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.26-14.41.22:795][639]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.11.26-09.41.22
+[2019.11.26-14.41.22:796][639]LogWorld: Bringing up level for play took: 0.016286
+[2019.11.26-14.41.22:797][639]LogLoad: Took 0.100552 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2019.11.26-14.41.22:799][639]LogAudio: Warning: Detected orphaned looping sound 'goldorb'.
+[2019.11.26-14.41.27:847][244]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-424.51 Y=-22.75 Z=0.00 Location: X=428.53 Y=1639.19 Z=266.34 Normal: X=0.70 Y=-0.48 Z=-0.52 PenetrationDepth:28.264 Actor:TargetRotating_DM_Blueprint25 Component:DestructibleComponent0 BoneName:Part00 (0 other events since notify)
+[2019.11.26-14.41.47:955][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/FirstPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2019.11.26-14.41.47:956][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.41.47:956][652]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Level1
+[2019.11.26-14.41.47:956][652]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.41.47:965][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-14.41.47:966][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/FirstPersonBP/Maps/Level3.Level3_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Level3.Level3:PersistentLevel.Level3'
+[2019.11.26-14.41.48:011][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-14.41.48:015][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.26-14.41.48:024][652]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.41.48:070][653]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.11.26-14.41.49:467][819]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.41.49:470][819]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-14.41.53:135][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.41.53:294][273]LogAIModule: Creating AISystem for world Home
+[2019.11.26-14.41.53:301][273]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Home.Home
+[2019.11.26-14.41.53:345][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.26-14.41.53:346][273]Cmd: MAP LOAD FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-14.41.53:346][273]LightingResults: New page: Lighting Build
+[2019.11.26-14.41.53:347][273]LoadErrors: New page: Loading map: Home.umap
+[2019.11.26-14.41.53:377][273]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.41.53:431][273]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-14.41.53:432][273]MapCheck: New page: Map Check
+[2019.11.26-14.41.53:432][273]LightingResults: New page: Lighting Build
+[2019.11.26-14.41.53:478][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.26-14.41.54:900][273]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-14.41.54:949][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.26-14.41.54:990][273]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-14.41.54:990][273]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2019.11.26-14.41.54:990][273]LogFileHelpers: Loading map 'Home' took 1.644
+[2019.11.26-14.41.55:505][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-14.41.55:611][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.26-14.41.55:865][331]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home72C6ED294AC20700EC9388945211A806.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home.umap'
+[2019.11.26-14.41.55:921][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Home_BuiltData" FILE="../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset" SILENT=true
+[2019.11.26-14.41.56:458][331]LogSavePackage: Moving '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Saved/Home_BuiltData9E5E65754DD6D85DE3E22991426C83E6.tmp' to '../../../../../../Users/desir/Documents/GitHub/BDC_VR/BDC_VR2/Content/FirstPersonBP/Maps/Home_BuiltData.uasset'
+[2019.11.26-14.41.56:827][371]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.26-14.41.58:210][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
